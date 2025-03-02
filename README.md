@@ -1,2 +1,5 @@
 # repoP
-repo p
+
+Mi primer repositorio. yujuu!
+
+Mi primera contribucion local con github
